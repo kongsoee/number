@@ -69,13 +69,15 @@ function pplay(){
 
 function rreset(){
     user.value="";
-    pick();
+    history.length=0;
+   
     area.textContent="정답을 맞춰보세요😎"
     resultimg.src="../image/updown.gif"
+
     game = false;
     play.disabled = false;
     chance = 5;
     chancearea.textContent=`남은 찬스 : ${chance}번`;;
-    
+     pick();
 }
 pick();
