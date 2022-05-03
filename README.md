@@ -2,7 +2,7 @@
 
 ![KakaoTalk_Photo_2022-05-03-22-29-56](https://user-images.githubusercontent.com/103023312/166462058-a42c210d-b4b9-45a9-8d67-d85e870a57b9.jpeg)
 
-랜덤한 숫자를 업다운 기능을 통해 맞추는 게임입니다.
+랜덤한 숫자를 업다운 기능을 통해 맞추는 게임입니다.<br>
 제작기간 : 2022.04.09
 
 ➡️[DEMO SITE](https://updowngamesoee.netlify.app/)⬅️
